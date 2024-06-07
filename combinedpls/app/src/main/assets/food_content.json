@@ -1,0 +1,146 @@
+{
+  "foods": [
+    {
+      "name": "Idly",
+      "calories": 65,
+      "protein": 2.5,
+      "carbs": 14,
+      "fat": 0.2
+    },
+    {
+      "name": "Dosa",
+      "calories": 133,
+      "protein": 3.9,
+      "carbs": 19,
+      "fat": 5.5
+    },
+    {
+      "name": "Vadai (Vada)",
+      "calories": 180,
+      "protein": 4.6,
+      "carbs": 20,
+      "fat": 9.7
+    },
+    {
+      "name": "Puri",
+      "calories": 101,
+      "protein": 2.2,
+      "carbs": 11,
+      "fat": 5.3
+    },
+    {
+      "name": "Parotta",
+      "calories": 300,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 10
+    },
+    {
+      "name": "Apple",
+      "calories": 52,
+      "protein": 0.26,
+      "carbs": 13.81,
+      "fat": 0.17
+    },
+    {
+      "name": "Banana",
+      "calories": 89,
+      "protein": 1.09,
+      "carbs": 22.84,
+      "fat": 0.33
+    },
+    {
+      "name": "Carrot",
+      "calories": 41,
+      "protein": 0.93,
+      "carbs": 9.58,
+      "fat": 0.24
+    },
+    {
+      "name": "Orange",
+      "calories": 43,
+      "protein": 1,
+      "carbs": 8.3,
+      "fat": 0.2
+    },
+    {
+      "name": "Watermelon",
+      "calories": 30,
+      "protein": 0.6,
+      "carbs": 7.6,
+      "fat": 0.2
+    },
+    {
+      "name": "Fish Fry",
+      "calories": 220,
+      "protein": 25,
+      "carbs": 0,
+      "fat": 13
+
+    },
+    {
+      "name": "Half Boiled Egg",
+      "calories": 68,
+      "protein": 5.5,
+      "carbs": 0.6,
+      "fat": 4.8
+
+    },
+    {
+      "name": "Biriyani",
+      "calories": 320,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 15
+    },
+    {
+      "name": "White Rice",
+      "calories": 130,
+      "protein": 2.7,
+      "carbs": 28,
+      "fat": 0.3
+    },
+    {
+      "name": "Lemon Rice",
+      "calories": 180,
+      "protein": 3,
+      "carbs": 31,
+      "fat": 5
+    },
+    {
+      "name": "Noodles",
+      "calories": 138,
+      "protein": 2.9,
+      "carbs": 20,
+      "fat": 5.1
+    },
+    {
+      "name": "Sambar",
+      "calories": 60,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2
+    },
+    {
+      "name": "Milk",
+      "calories": 42,
+      "protein": 3.4,
+      "carbs": 5,
+      "fat": 1
+    },
+    {
+      "name": "Laddu",
+      "calories": 150,
+      "protein": 1.2,
+      "carbs": 20,
+      "fat": 7
+    },
+    {
+      "name": "Chocolate Cake",
+      "calories": 367,
+      "protein": 4.2,
+      "carbs": 52,
+      "fat": 16
+    }
+  ]
+}
